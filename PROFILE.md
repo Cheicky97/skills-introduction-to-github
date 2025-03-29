@@ -1,5 +1,4 @@
 Welcome on my Github profile !
-<a name="ex02"></a>
 $$
 \begine{equation}
   A = \sum_i^N x_i
